@@ -1,8 +1,10 @@
 this is a new file
 its used to track changes
 
-current version is 1.1.0
+current version is 2.0.0
 
 patched some bugs
 
 super cool new feature
+
+added breaking api, new major version
