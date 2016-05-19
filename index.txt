@@ -1,4 +1,6 @@
 this is a new file
 its used to track changes
 
-current version is 1.0.0
+current version is 1.0.1
+
+patched some bugs
