@@ -8,3 +8,5 @@ patched some bugs
 super cool new feature
 
 added breaking api, new major version
+
+new api patched
